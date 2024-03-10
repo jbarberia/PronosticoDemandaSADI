@@ -1,0 +1,7 @@
+numpy
+pandas
+skforecast
+sklearn
+ordpy
+plotly
+matplotlib
